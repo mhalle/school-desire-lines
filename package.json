@@ -1,6 +1,5 @@
 {
   "name": "school-desire-lines",
-  "homepage": "https://dev.halle.us/school-desire-lines",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
