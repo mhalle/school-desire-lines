@@ -1,6 +1,5 @@
 import React, { useState, useRef, useEffect } from "react";
 import DeckGL, { LineLayer, ScatterplotLayer } from "deck.gl";
-import { useDebounce } from 'use-debounce';
 import { StaticMap } from "react-map-gl";
 import data from "./data/pedinfo-levels-bw.json";
 import 'mapbox-gl/dist/mapbox-gl.css';
