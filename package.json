@@ -1,14 +1,26 @@
 {
-  "name": "ped-heat-map",
+  "name": "school-desire-lines",
+  "homepage": "https://dev.halle.us/school-desire-lines",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@deck.gl/geo-layers": "^8.2.4",
+    "@deck.gl/mapbox": "^8.2.3",
+    "@loaders.gl/core": "^2.2.8",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "antd": "^4.5.1",
+    "classnames": "^2.2.6",
+    "deck.gl": "^8.2.3",
+    "history": "^5.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-map-gl": "^5.2.7",
+    "react-scripts": "3.4.1",
+    "react-transition-group": "^4.4.1",
+    "use-debounce": "^3.4.3",
+    "use-query-params": "^1.1.6"
   },
   "scripts": {
     "start": "react-scripts start",
