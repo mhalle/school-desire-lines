@@ -140,7 +140,7 @@ export default () => {
   return (
     <div className="App">
       <div className="controls">
-        <h1>Desire lines to Newton school</h1>
+        <h1>Desire lines to Newton schools</h1>
         <div>
           <Checkbox
             checked={showEs}
