@@ -165,6 +165,10 @@ export default () => {
             <Radio value="walk">walk</Radio>
             <Radio value="bike">walk &amp; bike</Radio>
           </Radio.Group>
+          <a className="help" style={{ paddingLeft: "96px" }}
+             href="https://mhalle.github.io/school-desire-lines/" 
+             target="_blank"
+             rel="noopener noreferrer"><b>Help</b></a>
         </div>
       </div>
       <div style={{ width: 0, height: 0 }} >
